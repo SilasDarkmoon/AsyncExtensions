@@ -1,3 +1,15 @@
-﻿{
-	"name": "AsyncExtensions"
+{
+    "name": "AsyncExtensions",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "CSHARP_7_OR_LATER",
+        "UNITY_2017_1_OR_NEWER"
+    ],
+    "versionDefines": []
 }
