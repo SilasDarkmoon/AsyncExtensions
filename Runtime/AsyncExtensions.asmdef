@@ -8,7 +8,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "CSHARP_7_OR_LATER",
         "UNITY_2017_1_OR_NEWER"
     ],
     "versionDefines": []
